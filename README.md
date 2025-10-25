@@ -13,7 +13,7 @@ I created this app as a learning project to practice:
 
 ## Screenshots
 
-<img src="screenshots/login.png" width="200"> <img src="screenshots/newsfeed.png" width="200"> <img src="screenshots/notification.png" width="200"> <img src="screenshots/contact.png" width="200">
+<img src="screenshots/login.png" width="200"> <img src="screenshots/newsfeed.png" width="200"> <img src="screenshots/notification.png" width="200"> <img src="screenshots/contact.png" width="200"> <img src="screenshots/edit.png" width="200">
 
 ## What I Built
 
