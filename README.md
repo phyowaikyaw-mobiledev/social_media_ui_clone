@@ -65,15 +65,15 @@ flutter:
 flutter run
 ```
 ```
-## Screenshots
+## App Preview
 
-<p align="center">
-  <img src="screenshots/hub1.png" />
-  <img src="screenshots/hub2.png"  />
-  <img src="screenshots/hub2O.png" />
-  <img src="screenshots/hub3.png" />
-  <img src="screenshots/hub4.png" />
-</p>
+<div align="center">
+  <img src="screenshots/login.png" width="250" />
+  <img src="screenshots/newsfeed.png" width="250" />
+  <img src="screenshots/notification.png" width="250" />
+  <img src="screenshots/contact.png" width="250" />
+  <img src="screenshots/edit.png" width="250" />
+</div>
 
 ## Project Structure
 
