@@ -11,6 +11,10 @@ I created this app as a learning project to practice:
 - Managing state with StatefulWidget
 - Creating smooth animations and transitions
 
+## Screenshots
+
+<img src="screenshots/login.png" width="200"> <img src="screenshots/newsfeed.png" width="200"> <img src="screenshots/notification.png" width="200"> <img src="screenshots/contact.png" width="200">
+
 ## What I Built
 
 **Login Screen**
@@ -44,8 +48,8 @@ I created this app as a learning project to practice:
 
 2. Clone this repo
 ```bash
-git clone [your-repo-url]
-cd [project-folder]
+git clone https://github.com/phyowaikyaw-mobiledev/social_media_ui_clone.git
+cd social_media_ui_clone
 ```
 
 3. Get dependencies
@@ -64,15 +68,8 @@ flutter:
 ```bash
 flutter run
 ```
-```
-## Screenshots
-
-| Login | News Feed | Notifications | Contacts |
-|-------|-----------|---------------|----------|
-| ![Login](screenshots/login.png) | ![Feed](screenshots/newsfeed.png) | ![Notifications](screenshots/notification.png) | ![Contacts](screenshots/contact.png) |
 
 ## Project Structure
-
 ```
 lib/
 ├── main.dart                  # Login screen
